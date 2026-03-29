@@ -2,8 +2,6 @@
 
 > **Your Gateway to Infinite Knowledge** — A full-stack, cross-platform library management solution with a modern React Native frontend and a robust Spring Boot backend powered by MongoDB.
 
-![Smart Library System](./app-screenshot.png)
-
 ---
 
 ## 🌟 Overview
