@@ -31,9 +31,13 @@
 
 ## 📸 Screenshots & UI Experience
 
-| **User Dashboard** | **Book Collection** | **Lottery System** |
+| **Landing Page** | **Modern Login** | **Admin Dashboard** |
 |:---:|:---:|:---:|
-| ![Dashboard](./screen%20shot/03_dashboard_home.png) | ![Books](./screen%20shot/06_books_screen.png) | ![Lottery](./screen%20shot/08_lottery_screen.png) |
+| ![Landing](./screen%20shot/01_landing_page.png) | ![Login](./screen%20shot/02_login_screen.png) | ![Dashboard](./screen%20shot/03_dashboard_home.png) |
+
+| **Book Collection** | **Borrow & Return** | **Lottery System** |
+|:---:|:---:|:---:|
+| ![Books](./screen%20shot/06_books_screen.png) | ![Borrow](./screen%20shot/07_borrow_return_screen.png) | ![Lottery](./screen%20shot/08_lottery_screen.png) |
 
 | **Donation Center** | **Branded Checkout** | **Global Search** |
 |:---:|:---:|:---:|
